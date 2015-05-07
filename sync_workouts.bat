@@ -1,3 +1,3 @@
 git add .
-git commit -m 'Adding new workouts'
+git commit
 git push origin master
