@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<TrainingCenterDatabase xmlns="http://www.garmin.com/xmlschemas/TrainingCenterDatabase/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/ActivityExtension/v2 http://www.garmin.com/xmlschemas/ActivityExtensionv2.xsd http://www.garmin.com/xmlschemas/FatCalories/v1 http://www.garmin.com/xmlschemas/fatcalorieextensionv1.xsd http://www.garmin.com/xmlschemas/TrainingCenterDatabase/v2 http://www.garmin.com/xmlschemas/TrainingCenterDatabasev2.xsd">
+
+  <Activities>
+    <Activity Sport="Biking">
+      <Id>2014-05-08T13:09:45Z</Id>
+      <Lap StartTime="2014-05-08T13:09:45Z">
+        <TotalTimeSeconds>63.0489998</TotalTimeSeconds>
+        <DistanceMeters>33.6300011</DistanceMeters>
+        <MaximumSpeed>39.5999985</MaximumSpeed>
+        <Calories>6</Calories>
+        <Intensity>Resting</Intensity>
+        <TriggerMethod>Manual</TriggerMethod>
+        <Track>
+          <Trackpoint>
+            <Time>2014-05-08T13:09:45Z</Time>
+          </Trackpoint>
+          <Trackpoint>
+            <Time>2014-05-08T13:10:38Z</Time>
+            <Position>
+              <LatitudeDegrees>47.6165625</LatitudeDegrees>
+              <LongitudeDegrees>-122.3379196</LongitudeDegrees>
+            </Position>
+            <AltitudeMeters>-44.2000008</AltitudeMeters>
+            <DistanceMeters>1.4500000</DistanceMeters>
+            <Extensions>
+              <TPX xmlns="http://www.garmin.com/xmlschemas/ActivityExtension/v2" CadenceSensor="Bike">
+                <Speed>49.1559982</Speed>
+              </TPX>
+            </Extensions>
+          </Trackpoint>
+          <Trackpoint>
+            <Time>2014-05-08T13:10:41Z</Time>
+            <Position>
+              <LatitudeDegrees>47.6166425</LatitudeDegrees>
+              <LongitudeDegrees>-122.3382437</LongitudeDegrees>
+            </Position>
+            <AltitudeMeters>52.7999992</AltitudeMeters>
+            <DistanceMeters>4.7800002</DistanceMeters>
+            <Extensions>
+              <TPX xmlns="http://www.garmin.com/xmlschemas/ActivityExtension/v2" CadenceSensor="Bike">
+                <Speed>62.0810013</Speed>
+              </TPX>
+            </Extensions>
+          </Trackpoint>
+          <Trackpoint>
+            <Time>2014-05-08T13:10:45Z</Time>
+            <Position>
+              <LatitudeDegrees>47.6167331</LatitudeDegrees>
+              <LongitudeDegrees>-122.3383988</LongitudeDegrees>
+            </Position>
+            <AltitudeMeters>106.5999985</AltitudeMeters>
+            <DistanceMeters>16.9599991</DistanceMeters>
+            <Extensions>
+              <TPX xmlns="http://www.garmin.com/xmlschemas/ActivityExtension/v2" CadenceSensor="Bike">
+                <Speed>65.1589966</Speed>
+              </TPX>
+            </Extensions>
+          </Trackpoint>
+          <Trackpoint>
+            <Time>2014-05-08T13:10:48Z</Time>
+            <Position>
+              <LatitudeDegrees>47.6168460</LatitudeDegrees>
+              <LongitudeDegrees>-122.3383938</LongitudeDegrees>
+            </Position>
+            <AltitudeMeters>115.5999985</AltitudeMeters>
+            <DistanceMeters>29.5000000</DistanceMeters>
+            <Extensions>
+              <TPX xmlns="http://www.garmin.com/xmlschemas/ActivityExtension/v2" CadenceSensor="Bike">
+                <Speed>5.7589998</Speed>
+              </TPX>
+            </Extensions>
+          </Trackpoint>
+        </Track>
+        <Extensions>
+          <FatCalories xmlns="http://www.garmin.com/xmlschemas/FatCalories/v1">
+            <Value>0</Value>
+          </FatCalories>
+          <LX xmlns="http://www.garmin.com/xmlschemas/ActivityExtension/v2">
+            <AvgSpeed>0.5330000</AvgSpeed>
+          </LX>
+        </Extensions>
+      </Lap>
+      <Creator xsi:type="Device_t">
+        <Name>Josh's 610</Name>
+        <UnitId>3827315326</UnitId>
+        <ProductID>1345</ProductID>
+        <Version>
+          <VersionMajor>0</VersionMajor>
+          <VersionMinor>2</VersionMinor>
+          <BuildMajor>0</BuildMajor>
+          <BuildMinor>0</BuildMinor>
+        </Version>
+      </Creator>
+    </Activity>
+  </Activities>
+
+  <Author xsi:type="Application_t">
+    <Name>Garmin ANT Agent(tm)</Name>
+    <Build>
+      <Version>
+        <VersionMajor>2</VersionMajor>
+        <VersionMinor>3</VersionMinor>
+        <BuildMajor>4</BuildMajor>
+        <BuildMinor>0</BuildMinor>
+      </Version>
+      <Type>Release</Type>
+      <Time>Feb 15 2013, 17:22:33</Time>
+      <Builder>leon</Builder>
+    </Build>
+    <LangID>EN</LangID>
+    <PartNumber>006-A0214-00</PartNumber>
+  </Author>
+
+</TrainingCenterDatabase>
