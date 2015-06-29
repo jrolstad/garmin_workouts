@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<TrainingCenterDatabase xmlns="http://www.garmin.com/xmlschemas/TrainingCenterDatabase/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/ActivityExtension/v2 http://www.garmin.com/xmlschemas/ActivityExtensionv2.xsd http://www.garmin.com/xmlschemas/FatCalories/v1 http://www.garmin.com/xmlschemas/fatcalorieextensionv1.xsd http://www.garmin.com/xmlschemas/TrainingCenterDatabase/v2 http://www.garmin.com/xmlschemas/TrainingCenterDatabasev2.xsd">
+
+  <Activities>
+    <Activity Sport="Running">
+      <Id>2015-06-27T12:48:46Z</Id>
+      <Lap StartTime="2015-06-27T12:48:46Z">
+        <TotalTimeSeconds>55.2830009</TotalTimeSeconds>
+        <DistanceMeters>0.0000000</DistanceMeters>
+        <Calories>5</Calories>
+        <AverageHeartRateBpm xsi:type="HeartRateInBeatsPerMinute_t">
+          <Value>111</Value>
+        </AverageHeartRateBpm>
+        <MaximumHeartRateBpm xsi:type="HeartRateInBeatsPerMinute_t">
+          <Value>139</Value>
+        </MaximumHeartRateBpm>
+        <Intensity>Resting</Intensity>
+        <TriggerMethod>Manual</TriggerMethod>
+        <Track>
+          <Trackpoint>
+            <Time>2015-06-27T12:48:46Z</Time>
+            <HeartRateBpm xsi:type="HeartRateInBeatsPerMinute_t">
+              <Value>75</Value>
+            </HeartRateBpm>
+          </Trackpoint>
+          <Trackpoint>
+            <Time>2015-06-27T12:48:47Z</Time>
+            <HeartRateBpm xsi:type="HeartRateInBeatsPerMinute_t">
+              <Value>75</Value>
+            </HeartRateBpm>
+          </Trackpoint>
+          <Trackpoint>
+            <Time>2015-06-27T12:48:56Z</Time>
+            <HeartRateBpm xsi:type="HeartRateInBeatsPerMinute_t">
+              <Value>76</Value>
+            </HeartRateBpm>
+          </Trackpoint>
+          <Trackpoint>
+            <Time>2015-06-27T12:48:58Z</Time>
+            <HeartRateBpm xsi:type="HeartRateInBeatsPerMinute_t">
+              <Value>89</Value>
+            </HeartRateBpm>
+          </Trackpoint>
+          <Trackpoint>
+            <Time>2015-06-27T12:48:59Z</Time>
+            <HeartRateBpm xsi:type="HeartRateInBeatsPerMinute_t">
+              <Value>89</Value>
+            </HeartRateBpm>
+          </Trackpoint>
+          <Trackpoint>
+            <Time>2015-06-27T12:49:00Z</Time>
+            <HeartRateBpm xsi:type="HeartRateInBeatsPerMinute_t">
+              <Value>92</Value>
+            </HeartRateBpm>
+          </Trackpoint>
+          <Trackpoint>
+            <Time>2015-06-27T12:49:01Z</Time>
+            <HeartRateBpm xsi:type="HeartRateInBeatsPerMinute_t">
+              <Value>95</Value>
+            </HeartRateBpm>
+          </Trackpoint>
+          <Trackpoint>
+            <Time>2015-06-27T12:49:02Z</Time>
+            <HeartRateBpm xsi:type="HeartRateInBeatsPerMinute_t">
+              <Value>96</Value>
+            </HeartRateBpm>
+          </Trackpoint>
+          <Trackpoint>
+            <Time>2015-06-27T12:49:03Z</Time>
+            <HeartRateBpm xsi:type="HeartRateInBeatsPerMinute_t">
+              <Value>97</Value>
+            </HeartRateBpm>
+          </Trackpoint>
+          <Trackpoint>
+            <Time>2015-06-27T12:49:05Z</Time>
+            <HeartRateBpm xsi:type="HeartRateInBeatsPerMinute_t">
+              <Value>99</Value>
+            </HeartRateBpm>
+          </Trackpoint>
+          <Trackpoint>
+            <Time>2015-06-27T12:49:06Z</Time>
+            <HeartRateBpm xsi:type="HeartRateInBeatsPerMinute_t">
+              <Value>103</Value>
+            </HeartRateBpm>
+          </Trackpoint>
+          <Trackpoint>
+            <Time>2015-06-27T12:49:07Z</Time>
+            <HeartRateBpm xsi:type="HeartRateInBeatsPerMinute_t">
+              <Value>109</Value>
+            </HeartRateBpm>
+          </Trackpoint>
+          <Trackpoint>
+            <Time>2015-06-27T12:49:08Z</Time>
+            <HeartRateBpm xsi:type="HeartRateInBeatsPerMinute_t">
+              <Value>110</Value>
+            </HeartRateBpm>
+          </Trackpoint>
+          <Trackpoint>
+            <Time>2015-06-27T12:49:15Z</Time>
+            <HeartRateBpm xsi:type="HeartRateInBeatsPerMinute_t">
+              <Value>112</Value>
+            </HeartRateBpm>
+          </Trackpoint>
+          <Trackpoint>
+            <Time>2015-06-27T12:49:16Z</Time>
+            <HeartRateBpm xsi:type="HeartRateInBeatsPerMinute_t">
+              <Value>118</Value>
+            </HeartRateBpm>
+          </Trackpoint>
+          <Trackpoint>
+            <Time>2015-06-27T12:49:17Z</Time>
+            <HeartRateBpm xsi:type="HeartRateInBeatsPerMinute_t">
+              <Value>121</Value>
+            </HeartRateBpm>
+          </Trackpoint>
+          <Trackpoint>
+            <Time>2015-06-27T12:49:18Z</Time>
+            <HeartRateBpm xsi:type="HeartRateInBeatsPerMinute_t">
+              <Value>124</Value>
+            </HeartRateBpm>
+          </Trackpoint>
+          <Trackpoint>
+            <Time>2015-06-27T12:49:19Z</Time>
+            <HeartRateBpm xsi:type="HeartRateInBeatsPerMinute_t">
+              <Value>126</Value>
+            </HeartRateBpm>
+          </Trackpoint>
+          <Trackpoint>
+            <Time>2015-06-27T12:49:20Z</Time>
+            <HeartRateBpm xsi:type="HeartRateInBeatsPerMinute_t">
+              <Value>127</Value>
+            </HeartRateBpm>
+          </Trackpoint>
+          <Trackpoint>
+            <Time>2015-06-27T12:49:21Z</Time>
+            <HeartRateBpm xsi:type="HeartRateInBeatsPerMinute_t">
+              <Value>129</Value>
+            </HeartRateBpm>
+          </Trackpoint>
+          <Trackpoint>
+            <Time>2015-06-27T12:49:23Z</Time>
+            <HeartRateBpm xsi:type="HeartRateInBeatsPerMinute_t">
+              <Value>131</Value>
+            </HeartRateBpm>
+          </Trackpoint>
+          <Trackpoint>
+            <Time>2015-06-27T12:49:24Z</Time>
+            <HeartRateBpm xsi:type="HeartRateInBeatsPerMinute_t">
+              <Value>134</Value>
+            </HeartRateBpm>
+          </Trackpoint>
+          <Trackpoint>
+            <Time>2015-06-27T12:49:25Z</Time>
+            <HeartRateBpm xsi:type="HeartRateInBeatsPerMinute_t">
+              <Value>133</Value>
+            </HeartRateBpm>
+          </Trackpoint>
+          <Trackpoint>
+            <Time>2015-06-27T12:49:29Z</Time>
+            <HeartRateBpm xsi:type="HeartRateInBeatsPerMinute_t">
+              <Value>134</Value>
+            </HeartRateBpm>
+          </Trackpoint>
+          <Trackpoint>
+            <Time>2015-06-27T12:49:30Z</Time>
+            <HeartRateBpm xsi:type="HeartRateInBeatsPerMinute_t">
+              <Value>136</Value>
+            </HeartRateBpm>
+          </Trackpoint>
+          <Trackpoint>
+            <Time>2015-06-27T12:49:33Z</Time>
+            <HeartRateBpm xsi:type="HeartRateInBeatsPerMinute_t">
+              <Value>137</Value>
+            </HeartRateBpm>
+          </Trackpoint>
+          <Trackpoint>
+            <Time>2015-06-27T12:49:34Z</Time>
+            <HeartRateBpm xsi:type="HeartRateInBeatsPerMinute_t">
+              <Value>139</Value>
+            </HeartRateBpm>
+          </Trackpoint>
+          <Trackpoint>
+            <Time>2015-06-27T12:49:41Z</Time>
+            <HeartRateBpm xsi:type="HeartRateInBeatsPerMinute_t">
+              <Value>139</Value>
+            </HeartRateBpm>
+          </Trackpoint>
+        </Track>
+        <Extensions>
+          <FatCalories xmlns="http://www.garmin.com/xmlschemas/FatCalories/v1">
+            <Value>0</Value>
+          </FatCalories>
+          <LX xmlns="http://www.garmin.com/xmlschemas/ActivityExtension/v2">
+            <AvgSpeed>0.0000000</AvgSpeed>
+          </LX>
+        </Extensions>
+      </Lap>
+      <Creator xsi:type="Device_t">
+        <Name>Josh's 610</Name>
+        <UnitId>3827315326</UnitId>
+        <ProductID>1345</ProductID>
+        <Version>
+          <VersionMajor>0</VersionMajor>
+          <VersionMinor>2</VersionMinor>
+          <BuildMajor>0</BuildMajor>
+          <BuildMinor>0</BuildMinor>
+        </Version>
+      </Creator>
+    </Activity>
+  </Activities>
+
+  <Author xsi:type="Application_t">
+    <Name>Garmin ANT Agent(tm)</Name>
+    <Build>
+      <Version>
+        <VersionMajor>2</VersionMajor>
+        <VersionMinor>3</VersionMinor>
+        <BuildMajor>4</BuildMajor>
+        <BuildMinor>0</BuildMinor>
+      </Version>
+      <Type>Release</Type>
+      <Time>Feb 15 2013, 17:22:33</Time>
+      <Builder>leon</Builder>
+    </Build>
+    <LangID>EN</LangID>
+    <PartNumber>006-A0214-00</PartNumber>
+  </Author>
+
+</TrainingCenterDatabase>
