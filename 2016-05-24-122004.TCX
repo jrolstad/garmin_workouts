@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<TrainingCenterDatabase xmlns="http://www.garmin.com/xmlschemas/TrainingCenterDatabase/v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.garmin.com/xmlschemas/ActivityExtension/v2 http://www.garmin.com/xmlschemas/ActivityExtensionv2.xsd http://www.garmin.com/xmlschemas/FatCalories/v1 http://www.garmin.com/xmlschemas/fatcalorieextensionv1.xsd http://www.garmin.com/xmlschemas/TrainingCenterDatabase/v2 http://www.garmin.com/xmlschemas/TrainingCenterDatabasev2.xsd">
+
+  <Activities>
+    <Activity Sport="Running">
+      <Id>2016-05-24T19:20:04Z</Id>
+      <Lap StartTime="2016-05-24T19:20:04Z">
+        <TotalTimeSeconds>1.0080000</TotalTimeSeconds>
+        <DistanceMeters>4.0999999</DistanceMeters>
+        <MaximumSpeed>1.3410000</MaximumSpeed>
+        <Calories>0</Calories>
+        <AverageHeartRateBpm xsi:type="HeartRateInBeatsPerMinute_t">
+          <Value>127</Value>
+        </AverageHeartRateBpm>
+        <MaximumHeartRateBpm xsi:type="HeartRateInBeatsPerMinute_t">
+          <Value>127</Value>
+        </MaximumHeartRateBpm>
+        <Intensity>Resting</Intensity>
+        <TriggerMethod>Manual</TriggerMethod>
+        <Track>
+          <Trackpoint>
+            <Time>2016-05-24T19:20:04Z</Time>
+            <Position>
+              <LatitudeDegrees>47.6148440</LatitudeDegrees>
+              <LongitudeDegrees>-122.3355529</LongitudeDegrees>
+            </Position>
+            <AltitudeMeters>71.1999969</AltitudeMeters>
+            <DistanceMeters>2.5200000</DistanceMeters>
+            <HeartRateBpm xsi:type="HeartRateInBeatsPerMinute_t">
+              <Value>127</Value>
+            </HeartRateBpm>
+            <Extensions>
+              <TPX xmlns="http://www.garmin.com/xmlschemas/ActivityExtension/v2" CadenceSensor="Footpod">
+                <Speed>0.9410000</Speed>
+              </TPX>
+            </Extensions>
+          </Trackpoint>
+          <Trackpoint>
+            <Time>2016-05-24T19:20:05Z</Time>
+            <Position>
+              <LatitudeDegrees>47.6148563</LatitudeDegrees>
+              <LongitudeDegrees>-122.3355422</LongitudeDegrees>
+            </Position>
+            <AltitudeMeters>70.8000031</AltitudeMeters>
+            <DistanceMeters>4.0999999</DistanceMeters>
+            <HeartRateBpm xsi:type="HeartRateInBeatsPerMinute_t">
+              <Value>127</Value>
+            </HeartRateBpm>
+            <Extensions>
+              <TPX xmlns="http://www.garmin.com/xmlschemas/ActivityExtension/v2" CadenceSensor="Footpod">
+                <Speed>1.3410000</Speed>
+              </TPX>
+            </Extensions>
+          </Trackpoint>
+        </Track>
+        <Extensions>
+          <FatCalories xmlns="http://www.garmin.com/xmlschemas/FatCalories/v1">
+            <Value>0</Value>
+          </FatCalories>
+          <LX xmlns="http://www.garmin.com/xmlschemas/ActivityExtension/v2">
+            <AvgSpeed>4.0720000</AvgSpeed>
+          </LX>
+        </Extensions>
+      </Lap>
+      <Creator xsi:type="Device_t">
+        <Name>Forerunner 610</Name>
+        <UnitId>3827315326</UnitId>
+        <ProductID>1345</ProductID>
+        <Version>
+          <VersionMajor>0</VersionMajor>
+          <VersionMinor>2</VersionMinor>
+          <BuildMajor>0</BuildMajor>
+          <BuildMinor>0</BuildMinor>
+        </Version>
+      </Creator>
+    </Activity>
+  </Activities>
+
+  <Author xsi:type="Application_t">
+    <Name>Garmin ANT Agent(tm)</Name>
+    <Build>
+      <Version>
+        <VersionMajor>2</VersionMajor>
+        <VersionMinor>3</VersionMinor>
+        <BuildMajor>4</BuildMajor>
+        <BuildMinor>0</BuildMinor>
+      </Version>
+      <Type>Release</Type>
+      <Time>Feb 15 2013, 17:22:33</Time>
+      <Builder>leon</Builder>
+    </Build>
+    <LangID>EN</LangID>
+    <PartNumber>006-A0214-00</PartNumber>
+  </Author>
+
+</TrainingCenterDatabase>
